@@ -1,9 +1,0 @@
-Coletor Estelar
-
-projeto/        Versão de desenvolvimento, com arquivos separados
-  index.html    Estrutura da página
-  css/style.css Estilos
-  js/script.js  Lógica do jogo (comentada em português)
-distribuicao/   Versão em um único arquivo HTML (basta abrir no navegador)
-
-Controles: setas ou A/D movem a nave, F1 inicia/reinicia, P pausa.
