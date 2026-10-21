@@ -1,0 +1,1 @@
+# coletor-estelar-logica-
